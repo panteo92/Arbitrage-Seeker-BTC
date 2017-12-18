@@ -1,1 +1,1 @@
-# Arbitrage-Seeker-BTC-
+# The Arbitrage Seeker (BTC)
